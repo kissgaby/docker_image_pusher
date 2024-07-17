@@ -1,6 +1,28 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+
+
+
+##以前增加过的镜像!##
+##------20240614------##
+#nginx
+##支持私库##
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
+##支持指定架构##
+#--platform=linux/arm64 xiaoyaliu/alist
+#nyanmisaka/jellyfin
+#allanpk716/chinesesubfinder
+
+##------20240713------##
+#v5star/rustdesk-api
+
+##------20240717------##
+#kingmo888/rustdesk-api-server:master
+#adguard/adguardhome:v0.107.52
+#qdtoday/qd:lite-dev
+#rustdesk/rustdesk-server-s6:1.1.11-1
+#superng6/aria2:webui-stable-23-12-06
+#filebrowser/filebrowser:v2.30.0
+#linuxserver/transmission:3.00-r5-ls136
+#mikolatero/vlmcsd:latest
+#tznb/onenav_extend:latest
+#linuxserver/syncthing:v1.27.9-ls150
