@@ -1,6 +1,3 @@
-##------20241004------##
-filebrowser/filebrowser:v2.31.2
-linuxserver/syncthing:v1.27.12-ls161
 
 
 ##------以前增加过的镜像!------##
@@ -30,4 +27,8 @@ linuxserver/syncthing:v1.27.12-ls161
 #linuxserver/syncthing:v1.27.9-ls150
 
 ##------20240721------##
-linuxserver/syncthing:v1.27.9-ls151
+#linuxserver/syncthing:v1.27.9-ls151
+
+##------20241004------##
+#filebrowser/filebrowser:v2.31.2
+#linuxserver/syncthing:v1.27.12-ls161
