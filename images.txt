@@ -1,7 +1,9 @@
-linuxserver/syncthing:v1.27.9-ls151
+##------20241004------##
+filebrowser/filebrowser:v2.31.2
+linuxserver/syncthing:v1.27.12-ls161
 
 
-##以前增加过的镜像!##
+##------以前增加过的镜像!------##
 ##------20240614------##
 #nginx
 ##支持私库##
@@ -26,3 +28,6 @@ linuxserver/syncthing:v1.27.9-ls151
 #mikolatero/vlmcsd:latest
 #tznb/onenav_extend:latest
 #linuxserver/syncthing:v1.27.9-ls150
+
+##------20240721------##
+linuxserver/syncthing:v1.27.9-ls151
