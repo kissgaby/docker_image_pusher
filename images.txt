@@ -1,5 +1,4 @@
 
-
 ##------以前增加过的镜像!------##
 ##------20240614------##
 #nginx
@@ -32,3 +31,6 @@
 ##------20241004------##
 #filebrowser/filebrowser:v2.31.2
 #linuxserver/syncthing:v1.27.12-ls161
+
+##------20241010------##
+linuxserver/syncthing:v1.27.12-ls162
