@@ -36,5 +36,7 @@
 #linuxserver/syncthing:v1.27.12-ls162
 
 ##------20241104------##
-devfox101/mt-photos-insightface-unofficial:latest
-mtphotos/mt-photos-ai:latest
+#devfox101/mt-photos-insightface-unofficial:latest
+#mtphotos/mt-photos-ai:latest
+linuxserver/syncthing:v1.27.12-ls163
+rustdesk/rustdesk-server-s6:1.1.12
