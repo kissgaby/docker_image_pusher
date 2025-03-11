@@ -42,5 +42,7 @@
 #rustdesk/rustdesk-server-s6:1.1.12
 
 ##------20241113------##
-jeessy/ddns-go:v6.7.6
+#jeessy/ddns-go:v6.7.6
 
+##------20250311------##
+lanzhihong/stock-scanner:202503070114
