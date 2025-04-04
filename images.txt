@@ -45,4 +45,7 @@
 #jeessy/ddns-go:v6.7.6
 
 ##------20250311------##
-lanzhihong/stock-scanner:202503070114
+#lanzhihong/stock-scanner:202503070114
+
+##------20250404------##
+superng6/aria2:webui-stable-25-02-18
